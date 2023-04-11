@@ -11,4 +11,6 @@ also for preventing overfitting I used early stopping: if the val loss does not 
 
 for test, the model was able to classify correctly all the images in the given dataset + some images from the internet.</br>
 
-more details in the notebook
+more details in the notebook. </br>
+
+the link to the weights file which will be used for test [here](https://drive.google.com/file/d/18OcCE6fMlK1uUUA31Hjt-H1woBwlRzLD/view?usp=sharing)
